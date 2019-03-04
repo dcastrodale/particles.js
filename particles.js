@@ -1521,7 +1521,11 @@ window.particlesJS = function(tag_id, params){
 
 window.particlesJS.load = function(tag_id, config_json, callback){
   if (typeof config_json === 'object') {
+<<<<<<< HEAD
     window.particlesJS(tag_id, config_json);
+=======
+    window.particlesJS(tag_id, params);
+>>>>>>> 908786ecd751c428204b623eedf9aebc781ac1a3
     if(callback) callback();
   } else {
     /* load json config */
