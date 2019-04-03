@@ -18,8 +18,7 @@
   "author": "Vincent Garreau",
   "license": "MIT",
   "files": [
-    "particles.js",
-    "particles.min.js"
+    "index.js"
   ],
   "bugs": {
     "url": "https://github.com/VincentGarreau/particles.js/issues"
